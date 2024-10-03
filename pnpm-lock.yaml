@@ -35,6 +35,9 @@ importers:
       typescript:
         specifier: ~5.5.2
         version: 5.5.4
+      yargs-parser:
+        specifier: ^21.1.1
+        version: 21.1.1
 
   packages/pkg-1:
     dependencies:

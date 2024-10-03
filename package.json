@@ -4,7 +4,6 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
     "@nx/devkit": "20.0.0-canary.20241002-1d10a19",
     "@nx/js": "20.0.0-canary.20241002-1d10a19",
@@ -14,6 +13,7 @@
     "@types/node": "18.16.9",
     "nx": "20.0.0-canary.20241002-1d10a19",
     "tslib": "^2.3.0",
-    "typescript": "~5.5.2"
+    "typescript": "~5.5.2",
+    "yargs-parser": "^21.1.1"
   }
 }
