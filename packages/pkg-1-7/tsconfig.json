@@ -1,0 +1,6 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "files": [],
+  "include": [],
+  "references": [{"path":"../pkg-1-7-25"},{"path":"../pkg-1-7-24"},{"path":"../pkg-1-7-23"},{"path":"../pkg-1-7-22"},{"path":"../pkg-1-7-21"},{"path":"../pkg-1-7-20"},{"path":"../pkg-1-7-19"},{"path":"../pkg-1-7-18"},{"path":"../pkg-1-7-17"},{"path":"../pkg-1-7-16"},{"path":"../pkg-1-7-15"},{"path":"../pkg-1-7-14"},{"path":"../pkg-1-7-13"},{"path":"../pkg-1-7-12"},{"path":"../pkg-1-7-11"},{"path":"../pkg-1-7-10"},{"path":"../pkg-1-7-9"},{"path":"../pkg-1-7-8"},{"path":"../pkg-1-7-7"},{"path":"../pkg-1-7-6"},{"path":"../pkg-1-7-5"},{"path":"../pkg-1-7-4"},{"path":"../pkg-1-7-3"},{"path":"../pkg-1-7-2"},{"path":"../pkg-1-7-1"},{"path":"./tsconfig.lib.json"}]
+}

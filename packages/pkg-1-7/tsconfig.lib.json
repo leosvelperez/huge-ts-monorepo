@@ -1,0 +1,13 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "rootDir": "src",
+    "outDir": "dist",
+    "tsBuildInfoFile": "dist/tsconfig.lib.tsbuildinfo",
+    "emitDeclarationOnly": false,
+    "types": ["node"]
+  },
+  "include": ["src/**/*.ts"],
+  "references": [{"path":"../pkg-1-7-25/tsconfig.lib.json"},{"path":"../pkg-1-7-24/tsconfig.lib.json"},{"path":"../pkg-1-7-23/tsconfig.lib.json"},{"path":"../pkg-1-7-22/tsconfig.lib.json"},{"path":"../pkg-1-7-21/tsconfig.lib.json"},{"path":"../pkg-1-7-20/tsconfig.lib.json"},{"path":"../pkg-1-7-19/tsconfig.lib.json"},{"path":"../pkg-1-7-18/tsconfig.lib.json"},{"path":"../pkg-1-7-17/tsconfig.lib.json"},{"path":"../pkg-1-7-16/tsconfig.lib.json"},{"path":"../pkg-1-7-15/tsconfig.lib.json"},{"path":"../pkg-1-7-14/tsconfig.lib.json"},{"path":"../pkg-1-7-13/tsconfig.lib.json"},{"path":"../pkg-1-7-12/tsconfig.lib.json"},{"path":"../pkg-1-7-11/tsconfig.lib.json"},{"path":"../pkg-1-7-10/tsconfig.lib.json"},{"path":"../pkg-1-7-9/tsconfig.lib.json"},{"path":"../pkg-1-7-8/tsconfig.lib.json"},{"path":"../pkg-1-7-7/tsconfig.lib.json"},{"path":"../pkg-1-7-6/tsconfig.lib.json"},{"path":"../pkg-1-7-5/tsconfig.lib.json"},{"path":"../pkg-1-7-4/tsconfig.lib.json"},{"path":"../pkg-1-7-3/tsconfig.lib.json"},{"path":"../pkg-1-7-2/tsconfig.lib.json"},{"path":"../pkg-1-7-1/tsconfig.lib.json"}]
+}
