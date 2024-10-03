@@ -6,6 +6,7 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
+    "@nx/devkit": "20.0.0-canary.20241002-1d10a19",
     "@nx/js": "20.0.0-canary.20241002-1d10a19",
     "@swc-node/register": "~1.9.1",
     "@swc/core": "~1.5.7",
