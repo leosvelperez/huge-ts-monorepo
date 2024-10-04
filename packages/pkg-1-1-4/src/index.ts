@@ -249,3 +249,4 @@ export { pkg_1_1_4File247 } from './lib/file-247';
 export { pkg_1_1_4File248 } from './lib/file-248';
 export { pkg_1_1_4File249 } from './lib/file-249';
 export { pkg_1_1_4File250 } from './lib/file-250';
+export * from 'shared-1';

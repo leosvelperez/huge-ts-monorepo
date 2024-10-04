@@ -1955,6 +1955,21 @@
     },
     {
       "path": "./packages/pkg-1-25-25"
+    },
+    {
+      "path": "./packages/shared-1"
+    },
+    {
+      "path": "./packages/shared-2"
+    },
+    {
+      "path": "./packages/shared-3"
+    },
+    {
+      "path": "./packages/shared-4"
+    },
+    {
+      "path": "./packages/shared"
     }
   ]
 }
